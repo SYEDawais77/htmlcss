@@ -62,3 +62,7 @@ a {
     border-radius: 5px;
     padding: 10px;
 }
+
+.pdf-summary:hover{
+    background-color:  #feefb3;
+}
